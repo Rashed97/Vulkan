@@ -1,1 +1,1 @@
-call android.bat update project -p . -t android-23
+call android.bat update project -p . -t android-24
